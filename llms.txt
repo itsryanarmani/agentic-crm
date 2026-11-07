@@ -10,6 +10,6 @@ Keywords: crm, contacts, pipeline, agentic-suite, claude-code, codex, cli, mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-crm
-- Core contract: https://github.com/pooriaarab/agentic-crm/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-crm
+- Core contract: https://github.com/itsryanarmani/agentic-crm/blob/main/docs/agentic-core.md
 - License: MIT

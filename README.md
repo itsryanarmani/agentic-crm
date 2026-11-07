@@ -189,7 +189,7 @@ Deploy through your Wrangler setup after local verification; this package provid
 ## Status
 
 Version 0.1.0 is an early release. APIs and schema behavior can change before 1.0.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-crm/issues) for support. Public case studies are not yet published in this repository.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-crm/issues) for support. Public case studies are not yet published in this repository.
 
 ## FAQ
 
