@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-crm",
+  "name": "io.github.itsryanarmani/agentic-crm",
   "description": "Small CRM for prospects, vendors, and leads on Cloudflare D1 and KV.",
   "version": "0.1.0",
   "repository": {
